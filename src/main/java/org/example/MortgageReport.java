@@ -10,7 +10,7 @@ public class MortgageReport {
 
     public MortgageReport(MortgageCalculator calculator) {
         this.calculator = calculator;
-//         setting numberformat in a variable
+//         setting number-format in a variable
         currency = NumberFormat.getCurrencyInstance();
     }
 

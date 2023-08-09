@@ -80,7 +80,7 @@ public class Vehicle {
 
     public String getModel() {
         if(model.equals("BMW")){
-            System.out.println("Congrats, You have a bad car in gas!.. A " + model + "!");
+            System.out.println("Congrats, You have a bad car on gas!.. A " + model + "!");
         }
         else {
             System.out.println("Now that's a reliable car! " + model);
